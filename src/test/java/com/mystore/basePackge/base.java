@@ -14,7 +14,8 @@ public class base {
      public Properties pro;        // for url,browser Remove Hardcore
      public Properties datapro;    // password, email ect.(Remove Hardcore)
      
-  //This this copy from GitHub   
+  //This this copy from GitHub  -
+  // this is add some more details in code checked it.
      
       public base() // constructor
       {
